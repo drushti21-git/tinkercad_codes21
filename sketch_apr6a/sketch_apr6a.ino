@@ -1,6 +1,6 @@
 #define my_led1 7
 #define my_led2 4
-  #define my_led3 2 
+  #define my_led3 5 //green led
 
 
    void setup() {
